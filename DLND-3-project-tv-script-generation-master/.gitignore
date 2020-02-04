@@ -1,0 +1,5 @@
+__pycache__
+.ipynb_checkpoints
+trained_rnn.pt
+dlnd_tv_script_generation_LSTM.ipynb
+
